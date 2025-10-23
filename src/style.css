@@ -1,0 +1,27 @@
+body{
+    background: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 250%;
+    text-align: center;
+}
+.botao1{
+    text-align: center;
+}
+button{
+    background: rgb(85, 211, 85);
+}
+button:hover{
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    background: lightgreen;
+}
+.centralizado{
+    text-align: center;
+    
+}
+.historia{
+    text-align: center;
+    color: white;
+}
